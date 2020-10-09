@@ -6,6 +6,8 @@ Snake Game made with the Turtle Module in Python3
 - Sprite Consumption
 - Gets slow with time as there is no way to delete sprites in turtle
 
+![Result](res.png)
+
 ### Installation
 
 Dependencies == None
